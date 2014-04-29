@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pl">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Wowka Miody</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/fonts/stylesheet.css" />
+    <link href="js/bx/jquery.bxslider.css" rel="stylesheet" />
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/jquery.dcjqaccordion.2.7.js"></script>
+    <script src="js/bx/jquery.bxslider.min.js"></script>
+</head>
+
+<body>
+    <div id="top">
+        <div id="menu_div">
+        	
+        	<div id="top_box">
+	        	<div id="logo">
+	                <a href="#"><img src="img/logo.png"></a>
+	            </div>
+        	</div>
+			
+        	<div class="menu">
+				<div class="nmuer_fl">
+					<div class="zadzwon">
+						tel. +49 02154 / 8886786
+					</div>
+					<div class="flagi">
+						<ul>
+							<li><a href=""><img src="img/pl.jpg"></a></li>
+							<li><a href=""><img src="img/ger.jpg"></a></li>
+							<li><a href=""><img src="img/eng.jpg"></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="menu_wlasciwe">
+					<ul>
+						<li><a href="">firma</a></li>
+						<li><a href="">uslugi</a></li>
+						<li><a href="">galeria</a></li>
+						<li><a href="">kontakt</a></li>
+					</ul>
+				</div>
+				<div class="samochody">
+					<div class="samochody_napis">
+						Lorem ipsum dolor sit amet, consectetu
+					</div>
+					<div class="samochody_inner">
+						<img src="img/porshe.jpg">
+					</div>
+				</div>
+        	</div>
+        </div>
+		 
+    </div>
+
+	
+	<div id="kontener_glowny">
+	
+		<div id="srdoek">
+			<div id="lewa_menu">
+				<div class="absolute">
+					<h2>Nasze usługi</h2>
+					<ul>
+						<li><a href="">Ersatzteile Shop</a></li>
+						<li><a href="">Renowacja</a></li>
+						<li><a href="">Naprawa</a></li>
+					</ul>
+				</div>
+			</div>
+			
+			<div id="content">
+				<div class="content_lewa">
+					<h1>Witamy w <span>911 repair</span></h1>
+					<div class="content_lewa_zawartosc">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus volutpat neque libero, eleifend aliquam est dictum a. Vivamus bibendum, nibh nec feugiat pretium, eros magna euismod orci, eu posuere odio diam vitae lacus. Fusce aliquam rhoncus velit et ultrices. Fusce suscipit est et erat venenatis egestas. Sed laoreet ultricies risus, sed posuere erat tincidunt vel. Mauris malesuada lobortis mauris sed fringilla. Mauris nec sapien libero. Sed cursus nunc vel sem ornare interdum.
+					</div>
+					<div class="wiecej">
+						<div class="kreska">
+							<img src="img/kreska.jpg">
+						</div>
+						
+						<div class="kreska_link">
+							<a href="">czytaj więcej</a>
+						</div>
+					</div>
+					
+					<div class="gotowe">
+						<span>Gotowe projekty</span>
+						<a href="">zobacz wszytskie</a>
+					</div>
+					<div class="gotowe_foto">
+						<a href=""><img src="img/gotowe.png"></a>
+					</div>
+					
+					
+					
+				</div>
+				
+				<div class="kontkat_box">
+					<div class="kontakt">
+						<h3>kontakt</h3>
+						
+						<p class="tel">tel. +49 02154 / 8886786</p>
+						<p class="mail">e-mail: <a href="mailto:k33ug@web.de">k33ug@web.de</a></p>
+					</div>
+					
+					<div class="kontakt_form">
+						<textarea>Wpisz wiadomość</textarea>
+						<input class="email" name=" " value="Twój email" onfocus="if(this.value=='' || this.value == 'Twój email') this.value=''" onblur="if(this.value == '') {this.value=this.defaultValue}" onkeyup="keyUp();" type="text">
+						<input class="button" type="button" value="wyślij">
+					</div>
+				</div>
+				
+				
+			
+			
+			</div>
+		</div>
+	
+	</div>
+
+	
+		
+    <div id="kontener_stopka">
+    	<div id="stopka">
+    		<div class="szybki">
+    			<span class="szybko">Szybko kontakt</span>
+    			<span class="tel">+48 456 864 234</span>
+    			<span class="szcze_st"><a href="">szczegóły</a></span>
+    		</div>
+    		<div class="menu_st">
+	    		<p>Moje konto</p>
+	    		<ul>
+	    			<li><a href="">Logowanie</a></li>
+	    			<li><a href="">Rejestracja </a></li>
+	    			<li><a href="">Regulamin</a></li>
+	    			<li><a href="">Zakupy</a></li>
+	    			<li><a href="">Dostawa </a></li>
+	    		</ul>
+	    	</div>
+	    	<div class="menu_st2">
+	    		<p>Menu</p>
+	    		<ul>
+	    			<li><a href="">Aktualności </a></li>
+	    			<li><a href="">Historia</a></li>
+	    			<li><a href="">Produkty</a></li>
+	    			<li><a href="">Kontakt</a></li>
+	    		</ul>
+	    	</div>
+	    	<div class="news">
+	    		<p>Newslatter
+	    			<span>Dowiesz się pierwszy o naszych promocjach, </span></p>
+	    		<div class="news_in">
+	                <input class="inpucik" name=" " value="adres e-mail" onfocus="if(this.value=='' || this.value == 'adres e-mail') this.value=''" onblur="if(this.value == '') {this.value=this.defaultValue}" onkeyup="keyUp();" type="text">
+	                <input class="butonik" type="button" value="">
+	            </div>
+	            <div class="face">
+	            	<a href=""><img src="img/face.png"></a>
+	            </div>
+	    	</div>
+	    </div>
+    	<div class="stopka_bt">
+    		<div>
+    			Copyright © Wowka Miody 2014
+    		</div>
+    		<div>
+    			<a href="http://virtualmedia.pl">virtualmedia</a>
+    		</div>
+    	</div>
+    	
+    	
+    </div>
+
+<script>
+$('#accordion').dcAccordion({
+eventType: 'click',
+autoClose: true,
+saveState: true,
+disableLink: false,
+showCount: false,
+speed: 'fast'
+});
+
+$(document).ready(function(){
+  $('.bxslider').bxSlider({
+  	pager: false,
+  	controls: false
+  });
+});
+
+$('.bxslider2').bxSlider({
+  minSlides: 4,
+  maxSlides: 4,
+  slideWidth: 248,
+  slideMargin: 10,
+  pager: false
+});
+</script>
+
+</body>
+</html>
